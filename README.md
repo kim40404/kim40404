@@ -105,11 +105,11 @@ user@kimsang:~$ cat experience.txt
 
 <div align="center">
 
-[![MobileLegendsUnique](https://github-readme-stats.vercel.app/api/pin/?username=kim40404&repo=MobileLegendsUnique&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff)](https://github.com/kim40404/MobileLegendsUnique)
-[![ielt-pathfinder-ai](https://github-readme-stats.vercel.app/api/pin/?username=kim40404&repo=ielt-pathfinder-ai&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff)](https://github.com/kim40404/ielt-pathfinder-ai)
+[![MobileLegendsUnique](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=kim40404&repo=MobileLegendsUnique&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff)](https://github.com/kim40404/MobileLegendsUnique)
+[![ielt-pathfinder-ai](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=kim40404&repo=ielt-pathfinder-ai&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff)](https://github.com/kim40404/ielt-pathfinder-ai)
 
-[![CV-Maker-Project](https://github-readme-stats.vercel.app/api/pin/?username=kim40404&repo=CV-Maker-Project&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff)](https://github.com/kim40404/CV-Maker-Project)
-[![Kanban-Board-Frontend](https://github-readme-stats.vercel.app/api/pin/?username=kim40404&repo=Kanban-Board-Frontend&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff)](https://github.com/kim40404/Kanban-Board-Frontend)
+[![CV-Maker-Project](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=kim40404&repo=CV-Maker-Project&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff)](https://github.com/kim40404/CV-Maker-Project)
+[![Kanban-Board-Frontend](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=kim40404&repo=Kanban-Board-Frontend&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff)](https://github.com/kim40404/Kanban-Board-Frontend)
 
 </div>
 
@@ -120,8 +120,8 @@ user@kimsang:~$ cat experience.txt
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kim40404&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kim40404&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kim40404&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kim40404&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e"/>
 </div>
 
 <div align="center">
